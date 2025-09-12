@@ -45,10 +45,16 @@ The final dashboard was built in Power BI, connected directly to the Azure SQL D
 
 ## 🛠️ Tools Used
 
-Azure Blob Storage	:Hosting raw CSV data
-Azure Data Factory	:Low-code ETL pipeline
-Azure Databricks	:Advanced data transformation with Spark
-Azure SQL Database	:Centralized data storage and querying
-Azure Data Studio	:SQL-based analysis and exploration
-Power BI	:Interactive dashboard and visualization
+Azure Blob Storage	:
+Hosting raw CSV data
+Azure Data Factory	:
+Low-code ETL pipeline
+Azure Databricks	:
+Advanced data transformation with Spark
+Azure SQL Database	:
+Centralized data storage and querying
+Azure Data Studio	:
+SQL-based analysis and exploration
+Power BI	:
+Interactive dashboard and visualization
   
